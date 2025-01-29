@@ -1,0 +1,82 @@
+# 0xsulla
+
+0xsulla is an educational platform designed to help individuals learn about cryptocurrency, blockchain technology, and decentralized finance (DeFi). Whether you're new to crypto or looking to expand your knowledge, 0xsulla aims to provide accessible and comprehensive resources.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+0xsulla provides a structured learning path for those interested in understanding the complex world of cryptocurrency and blockchain. The platform covers topics from the basics of digital currencies to advanced DeFi concepts, making it an ideal starting point for anyone interested in this space.
+
+The project is built with modern web technologies and is continuously updated with the latest information from the crypto world.
+
+## Features
+- **Comprehensive Learning Modules**: Organized lessons on various aspects of cryptocurrency, blockchain, and DeFi.
+- **Interactive Quizzes**: Test your knowledge as you progress through the content.
+- **Resource Library**: Curated articles, videos, and guides to expand your understanding.
+- **Community Support**: Join a community of learners to share ideas and ask questions.
+
+## Installation
+
+To get started with 0xsulla locally, follow these steps:
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (for local development)
+- A modern browser for viewing the site
+
+### Steps
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/lewisolden/0xsulla.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd 0xsulla
+    ```
+
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+    ```bash
+    npm run dev
+    ```
+
+5. Open your browser and go to `http://localhost:3000` to view the site.
+
+## Usage
+
+Once the development server is running, you can view the application and start browsing through the learning modules. You can also modify the content or add new modules to suit your needs.
+
+For production deployments, follow the instructions in the deployment section below.
+
+## Contributing
+
+We welcome contributions to improve 0xsulla! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your modifications or additions.
+4. Submit a pull request describing your changes.
+
+Make sure to follow the [code of conduct](#) and adhere to the project's guidelines for consistency.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, feel free to open an issue in the repository or contact the project maintainer:
+
+- **Email**: [your-email@example.com]
+- **Twitter**: [@yourhandle]
